@@ -1,0 +1,28 @@
+C:\Users\alex fr\Desktop\KeyAuth-CSHARP-Example-main\Form\bin\Release\FloppaChat.exe.config
+C:\Users\alex fr\Desktop\KeyAuth-CSHARP-Example-main\Form\bin\Release\FloppaChat.exe
+C:\Users\alex fr\Desktop\KeyAuth-CSHARP-Example-main\Form\bin\Release\FloppaChat.pdb
+C:\Users\alex fr\Desktop\KeyAuth-CSHARP-Example-main\Form\obj\Release\Loader.csproj.AssemblyReference.cache
+C:\Users\alex fr\Desktop\KeyAuth-CSHARP-Example-main\Form\obj\Release\Loader.csproj.SuggestedBindingRedirects.cache
+C:\Users\alex fr\Desktop\KeyAuth-CSHARP-Example-main\Form\obj\Release\FloppaChat.Properties.Resources.resources
+C:\Users\alex fr\Desktop\KeyAuth-CSHARP-Example-main\Form\obj\Release\Loader.csproj.GenerateResource.cache
+C:\Users\alex fr\Desktop\KeyAuth-CSHARP-Example-main\Form\obj\Release\Loader.csproj.CoreCompileInputs.cache
+C:\Users\alex fr\Desktop\KeyAuth-CSHARP-Example-main\Form\obj\Release\FloppaChat.exe
+C:\Users\alex fr\Desktop\KeyAuth-CSHARP-Example-main\Form\obj\Release\FloppaChat.pdb
+C:\Users\alex fr\Desktop\KeyAuth-CSHARP-Example-main\Form\bin\Release\DrakeUI.Framework.dll
+C:\Users\alex fr\Desktop\KeyAuth-CSHARP-Example-main\Form\bin\Release\Guna.UI2.dll
+C:\Users\alex fr\Desktop\KeyAuth-CSHARP-Example-main\Form\obj\Release\Loader.csproj.CopyComplete
+C:\Users\alex fr\Desktop\KeyAuth-CSHARP-Example-main\Form\obj\Release\FloppaAuth.Main.resources
+C:\Users\alex fr\Desktop\KeyAuth-CSHARP-Example-main\Form\obj\Release\FloppaAuth.Login.resources
+C:\Users\z9jpo\Desktop\DEV FILES\c# ui projects\repos\KeyAuth Chat Style\Form\obj\Release\Loader.csproj.AssemblyReference.cache
+C:\Users\z9jpo\Desktop\DEV FILES\c# ui projects\repos\KeyAuth Chat Style\Form\obj\Release\Loader.csproj.SuggestedBindingRedirects.cache
+C:\Users\z9jpo\Desktop\DEV FILES\c# ui projects\repos\KeyAuth Chat Style\Form\obj\Release\Loader.csproj.GenerateResource.cache
+C:\Users\z9jpo\Desktop\DEV FILES\c# ui projects\repos\KeyAuth Chat Style\Form\obj\Release\Loader.csproj.CoreCompileInputs.cache
+C:\Users\z9jpo\Desktop\DEV FILES\c# ui projects\repos\KeyAuth Chat Style\Form\obj\Release\KeyAuthChatStyle.Main.resources
+C:\Users\z9jpo\Desktop\DEV FILES\c# ui projects\repos\KeyAuth Chat Style\Form\obj\Release\KeyAuthChatStyle.Login.resources
+C:\Users\z9jpo\Desktop\DEV FILES\c# ui projects\repos\KeyAuth Chat Style\Form\bin\Release\KeyAuthChatStyle.exe.config
+C:\Users\z9jpo\Desktop\DEV FILES\c# ui projects\repos\KeyAuth Chat Style\Form\bin\Release\KeyAuthChatStyle.exe
+C:\Users\z9jpo\Desktop\DEV FILES\c# ui projects\repos\KeyAuth Chat Style\Form\bin\Release\KeyAuthChatStyle.pdb
+C:\Users\z9jpo\Desktop\DEV FILES\c# ui projects\repos\KeyAuth Chat Style\Form\obj\Release\KeyAuthChatStyle.Properties.Resources.resources
+C:\Users\z9jpo\Desktop\DEV FILES\c# ui projects\repos\KeyAuth Chat Style\Form\obj\Release\KeyAuthChatStyle.exe
+C:\Users\z9jpo\Desktop\DEV FILES\c# ui projects\repos\KeyAuth Chat Style\Form\obj\Release\KeyAuthChatStyle.pdb
+C:\Users\z9jpo\Desktop\DEV FILES\c# ui projects\repos\KeyAuth Chat Style\Form\obj\Release\Loader.csproj.Fody.CopyLocal.cache
