@@ -1,6 +1,6 @@
 # KeyAuthChatStyle
 KeyAuth C#/CS/CSHARP Example With Chat Style
-KeyAuth C# example for the https://keyauth.cc authentication system.
+KeyAuth C# example for the https://keyauth.cc authentication system. 😊
 
 ## **Bugs**
 
